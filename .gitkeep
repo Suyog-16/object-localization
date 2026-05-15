@@ -1,5 +1,5 @@
-configs
-notebooks
-script
-tests
-script
+configs/
+notebooks/
+script/
+tests/
+script/
